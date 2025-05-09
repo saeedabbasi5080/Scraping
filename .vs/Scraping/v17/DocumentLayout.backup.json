@@ -1,0 +1,205 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Saeed\\Desktop\\Scraping\\Scraping\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF488C4-3C51-47B4-A821-51D551E12CFD}|ScrapingApplication\\ScrapingApplication.csproj|c:\\users\\saeed\\desktop\\scraping\\scraping\\scrapingapplication\\scrapecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF488C4-3C51-47B4-A821-51D551E12CFD}|ScrapingApplication\\ScrapingApplication.csproj|solutionrelative:scrapingapplication\\scrapecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF488C4-3C51-47B4-A821-51D551E12CFD}|ScrapingApplication\\ScrapingApplication.csproj|c:\\users\\saeed\\desktop\\scraping\\scraping\\scrapingapplication\\scrapingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF488C4-3C51-47B4-A821-51D551E12CFD}|ScrapingApplication\\ScrapingApplication.csproj|solutionrelative:scrapingapplication\\scrapingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF488C4-3C51-47B4-A821-51D551E12CFD}|ScrapingApplication\\ScrapingApplication.csproj|c:\\users\\saeed\\desktop\\scraping\\scraping\\scrapingapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF488C4-3C51-47B4-A821-51D551E12CFD}|ScrapingApplication\\ScrapingApplication.csproj|solutionrelative:scrapingapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF488C4-3C51-47B4-A821-51D551E12CFD}|ScrapingApplication\\ScrapingApplication.csproj|c:\\users\\saeed\\desktop\\scraping\\scraping\\scrapingapplication\\articledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF488C4-3C51-47B4-A821-51D551E12CFD}|ScrapingApplication\\ScrapingApplication.csproj|solutionrelative:scrapingapplication\\articledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF488C4-3C51-47B4-A821-51D551E12CFD}|ScrapingApplication\\ScrapingApplication.csproj|c:\\users\\saeed\\desktop\\scraping\\scraping\\scrapingapplication\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF488C4-3C51-47B4-A821-51D551E12CFD}|ScrapingApplication\\ScrapingApplication.csproj|solutionrelative:scrapingapplication\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF488C4-3C51-47B4-A821-51D551E12CFD}|ScrapingApplication\\ScrapingApplication.csproj|c:\\users\\saeed\\desktop\\scraping\\scraping\\scrapingapplication\\entities\\instructions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF488C4-3C51-47B4-A821-51D551E12CFD}|ScrapingApplication\\ScrapingApplication.csproj|solutionrelative:scrapingapplication\\entities\\instructions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF488C4-3C51-47B4-A821-51D551E12CFD}|ScrapingApplication\\ScrapingApplication.csproj|c:\\users\\saeed\\desktop\\scraping\\scraping\\scrapingapplication\\entities\\exercises.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF488C4-3C51-47B4-A821-51D551E12CFD}|ScrapingApplication\\ScrapingApplication.csproj|solutionrelative:scrapingapplication\\entities\\exercises.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF488C4-3C51-47B4-A821-51D551E12CFD}|ScrapingApplication\\ScrapingApplication.csproj|c:\\users\\saeed\\desktop\\scraping\\scraping\\scrapingapplication\\entities\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF488C4-3C51-47B4-A821-51D551E12CFD}|ScrapingApplication\\ScrapingApplication.csproj|solutionrelative:scrapingapplication\\entities\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ScrapeController.cs",
+              "DocumentMoniker": "C:\\Users\\Saeed\\Desktop\\Scraping\\Scraping\\ScrapingApplication\\ScrapeController.cs",
+              "RelativeDocumentMoniker": "ScrapingApplication\\ScrapeController.cs",
+              "ToolTip": "C:\\Users\\Saeed\\Desktop\\Scraping\\Scraping\\ScrapingApplication\\ScrapeController.cs",
+              "RelativeToolTip": "ScrapingApplication\\ScrapeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T22:20:55.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ArticleDto.cs",
+              "DocumentMoniker": "C:\\Users\\Saeed\\Desktop\\Scraping\\Scraping\\ScrapingApplication\\ArticleDto.cs",
+              "RelativeDocumentMoniker": "ScrapingApplication\\ArticleDto.cs",
+              "ToolTip": "C:\\Users\\Saeed\\Desktop\\Scraping\\Scraping\\ScrapingApplication\\ArticleDto.cs",
+              "RelativeToolTip": "ScrapingApplication\\ArticleDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T22:20:06.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Instructions.cs",
+              "DocumentMoniker": "C:\\Users\\Saeed\\Desktop\\Scraping\\Scraping\\ScrapingApplication\\Entities\\Instructions.cs",
+              "RelativeDocumentMoniker": "ScrapingApplication\\Entities\\Instructions.cs",
+              "ToolTip": "C:\\Users\\Saeed\\Desktop\\Scraping\\Scraping\\ScrapingApplication\\Entities\\Instructions.cs",
+              "RelativeToolTip": "ScrapingApplication\\Entities\\Instructions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T22:11:45.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Exercises.cs",
+              "DocumentMoniker": "C:\\Users\\Saeed\\Desktop\\Scraping\\Scraping\\ScrapingApplication\\Entities\\Exercises.cs",
+              "RelativeDocumentMoniker": "ScrapingApplication\\Entities\\Exercises.cs",
+              "ToolTip": "C:\\Users\\Saeed\\Desktop\\Scraping\\Scraping\\ScrapingApplication\\Entities\\Exercises.cs",
+              "RelativeToolTip": "ScrapingApplication\\Entities\\Exercises.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T22:11:42.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "About.cs",
+              "DocumentMoniker": "C:\\Users\\Saeed\\Desktop\\Scraping\\Scraping\\ScrapingApplication\\Entities\\About.cs",
+              "RelativeDocumentMoniker": "ScrapingApplication\\Entities\\About.cs",
+              "ToolTip": "C:\\Users\\Saeed\\Desktop\\Scraping\\Scraping\\ScrapingApplication\\Entities\\About.cs",
+              "RelativeToolTip": "ScrapingApplication\\Entities\\About.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T22:11:36.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Saeed\\Desktop\\Scraping\\Scraping\\ScrapingApplication\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ScrapingApplication\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Saeed\\Desktop\\Scraping\\Scraping\\ScrapingApplication\\AppDbContext.cs",
+              "RelativeToolTip": "ScrapingApplication\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T21:58:15.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Saeed\\Desktop\\Scraping\\Scraping\\ScrapingApplication\\Program.cs",
+              "RelativeDocumentMoniker": "ScrapingApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\Saeed\\Desktop\\Scraping\\Scraping\\ScrapingApplication\\Program.cs",
+              "RelativeToolTip": "ScrapingApplication\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T21:41:53.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ScrapingService.cs",
+              "DocumentMoniker": "C:\\Users\\Saeed\\Desktop\\Scraping\\Scraping\\ScrapingApplication\\ScrapingService.cs",
+              "RelativeDocumentMoniker": "ScrapingApplication\\ScrapingService.cs",
+              "ToolTip": "C:\\Users\\Saeed\\Desktop\\Scraping\\Scraping\\ScrapingApplication\\ScrapingService.cs",
+              "RelativeToolTip": "ScrapingApplication\\ScrapingService.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAYwFAAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T21:41:32.223Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
