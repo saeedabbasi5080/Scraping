@@ -2,7 +2,7 @@
 using ScrapingApplication.Entities;
 
 
-namespace ScrapingApplication
+namespace ScrapingApplication.Db
 {
     public class AppDbContext : DbContext
     {

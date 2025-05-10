@@ -1,4 +1,4 @@
-﻿using ScrapingApplication;
+﻿using ScrapingApplication.Db;
 
 var builder = WebApplication.CreateBuilder(args);
 

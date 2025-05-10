@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NS41h694XIQ=",
+  "dgSpecHash": "9XBtIeVINf4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\saeid.abasi\\Source\\Repos\\Scraping\\ScrapingApplication\\ScrapingApplication.csproj",
+  "projectFilePath": "C:\\Users\\saeid.abasi\\source\\repos\\Scraping\\ScrapingApplication\\ScrapingApplication.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\saeid.abasi\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\saeid.abasi\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

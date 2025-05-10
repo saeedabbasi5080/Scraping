@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\saeid.abasi\\Source\\Repos\\Scraping\\ScrapingApplication\\ScrapingApplication.csproj": {}
+    "C:\\Users\\saeid.abasi\\source\\repos\\Scraping\\ScrapingApplication\\ScrapingApplication.csproj": {}
   },
   "projects": {
-    "C:\\Users\\saeid.abasi\\Source\\Repos\\Scraping\\ScrapingApplication\\ScrapingApplication.csproj": {
+    "C:\\Users\\saeid.abasi\\source\\repos\\Scraping\\ScrapingApplication\\ScrapingApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\saeid.abasi\\Source\\Repos\\Scraping\\ScrapingApplication\\ScrapingApplication.csproj",
+        "projectUniqueName": "C:\\Users\\saeid.abasi\\source\\repos\\Scraping\\ScrapingApplication\\ScrapingApplication.csproj",
         "projectName": "ScrapingApplication",
-        "projectPath": "C:\\Users\\saeid.abasi\\Source\\Repos\\Scraping\\ScrapingApplication\\ScrapingApplication.csproj",
+        "projectPath": "C:\\Users\\saeid.abasi\\source\\repos\\Scraping\\ScrapingApplication\\ScrapingApplication.csproj",
         "packagesPath": "C:\\Users\\saeid.abasi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\saeid.abasi\\Source\\Repos\\Scraping\\ScrapingApplication\\obj\\",
+        "outputPath": "C:\\Users\\saeid.abasi\\source\\repos\\Scraping\\ScrapingApplication\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

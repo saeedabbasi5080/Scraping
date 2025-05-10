@@ -70,9 +70,9 @@ using HtmlAgilityPack;
 using System.Net.Http;
 using System.Threading.Tasks;
 using System.Collections.Generic;
-using ScrapingApplication;
 using Microsoft.EntityFrameworkCore;
 using ScrapingApplication.Entities;
+using ScrapingApplication.Db;
 
 public class ScrapingService
 {

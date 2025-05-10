@@ -1,7 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Saeed\\Desktop\\Scraping\\Scraping\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\saeid.abasi\\source\\repos\\Scraping\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF488C4-3C51-47B4-A821-51D551E12CFD}|ScrapingApplication\\ScrapingApplication.csproj|c:\\users\\saeid.abasi\\source\\repos\\scraping\\scrapingapplication\\enums\\musclesenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF488C4-3C51-47B4-A821-51D551E12CFD}|ScrapingApplication\\ScrapingApplication.csproj|solutionrelative:scrapingapplication\\enums\\musclesenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 15,
           "Children": [
             {
               "$type": "Bookmark",
@@ -65,11 +70,24 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MusclesEnum.cs",
+              "DocumentMoniker": "C:\\Users\\saeid.abasi\\source\\repos\\Scraping\\ScrapingApplication\\Enums\\MusclesEnum.cs",
+              "RelativeDocumentMoniker": "ScrapingApplication\\Enums\\MusclesEnum.cs",
+              "ToolTip": "C:\\Users\\saeid.abasi\\source\\repos\\Scraping\\ScrapingApplication\\Enums\\MusclesEnum.cs",
+              "RelativeToolTip": "ScrapingApplication\\Enums\\MusclesEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T11:47:30.658Z",
+              "EditorCaption": ""
             }
           ]
         }
