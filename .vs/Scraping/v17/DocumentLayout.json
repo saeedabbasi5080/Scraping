@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\saeid.abasi\\source\\repos\\Scraping\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CCF488C4-3C51-47B4-A821-51D551E12CFD}|ScrapingApplication\\ScrapingApplication.csproj|c:\\users\\saeid.abasi\\source\\repos\\scraping\\scrapingapplication\\enums\\musclesenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCF488C4-3C51-47B4-A821-51D551E12CFD}|ScrapingApplication\\ScrapingApplication.csproj|solutionrelative:scrapingapplication\\enums\\musclesenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CCF488C4-3C51-47B4-A821-51D551E12CFD}|ScrapingApplication\\ScrapingApplication.csproj|c:\\users\\saeid.abasi\\source\\repos\\scraping\\scrapingapplication\\services\\scrapingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF488C4-3C51-47B4-A821-51D551E12CFD}|ScrapingApplication\\ScrapingApplication.csproj|solutionrelative:scrapingapplication\\services\\scrapingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF488C4-3C51-47B4-A821-51D551E12CFD}|ScrapingApplication\\ScrapingApplication.csproj|c:\\users\\saeid.abasi\\source\\repos\\scraping\\scrapingapplication\\seleniumscraperlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF488C4-3C51-47B4-A821-51D551E12CFD}|ScrapingApplication\\ScrapingApplication.csproj|solutionrelative:scrapingapplication\\seleniumscraperlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF488C4-3C51-47B4-A821-51D551E12CFD}|ScrapingApplication\\ScrapingApplication.csproj|c:\\users\\saeid.abasi\\source\\repos\\scraping\\scrapingapplication\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF488C4-3C51-47B4-A821-51D551E12CFD}|ScrapingApplication\\ScrapingApplication.csproj|solutionrelative:scrapingapplication\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF488C4-3C51-47B4-A821-51D551E12CFD}|ScrapingApplication\\ScrapingApplication.csproj|c:\\users\\saeid.abasi\\source\\repos\\scraping\\scrapingapplication\\controllers\\scrapecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF488C4-3C51-47B4-A821-51D551E12CFD}|ScrapingApplication\\ScrapingApplication.csproj|solutionrelative:scrapingapplication\\controllers\\scrapecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,79 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 15,
+          "SelectedChildIndex": 3,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ScrapeController.cs",
+              "DocumentMoniker": "C:\\Users\\saeid.abasi\\source\\repos\\Scraping\\ScrapingApplication\\Controllers\\ScrapeController.cs",
+              "RelativeDocumentMoniker": "ScrapingApplication\\Controllers\\ScrapeController.cs",
+              "ToolTip": "C:\\Users\\saeid.abasi\\source\\repos\\Scraping\\ScrapingApplication\\Controllers\\ScrapeController.cs",
+              "RelativeToolTip": "ScrapingApplication\\Controllers\\ScrapeController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAwBcAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T13:18:43.097Z",
+              "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SeleniumScraperLogin.cs",
+              "DocumentMoniker": "C:\\Users\\saeid.abasi\\source\\repos\\Scraping\\ScrapingApplication\\SeleniumScraperLogin.cs",
+              "RelativeDocumentMoniker": "ScrapingApplication\\SeleniumScraperLogin.cs",
+              "ToolTip": "C:\\Users\\saeid.abasi\\source\\repos\\Scraping\\ScrapingApplication\\SeleniumScraperLogin.cs",
+              "RelativeToolTip": "ScrapingApplication\\SeleniumScraperLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T14:36:48.404Z",
+              "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:138:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:144:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginService.cs",
+              "DocumentMoniker": "C:\\Users\\saeid.abasi\\source\\repos\\Scraping\\ScrapingApplication\\LoginService.cs",
+              "RelativeDocumentMoniker": "ScrapingApplication\\LoginService.cs",
+              "ToolTip": "C:\\Users\\saeid.abasi\\source\\repos\\Scraping\\ScrapingApplication\\LoginService.cs",
+              "RelativeToolTip": "ScrapingApplication\\LoginService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T14:31:23.059Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MusclesEnum.cs",
-              "DocumentMoniker": "C:\\Users\\saeid.abasi\\source\\repos\\Scraping\\ScrapingApplication\\Enums\\MusclesEnum.cs",
-              "RelativeDocumentMoniker": "ScrapingApplication\\Enums\\MusclesEnum.cs",
-              "ToolTip": "C:\\Users\\saeid.abasi\\source\\repos\\Scraping\\ScrapingApplication\\Enums\\MusclesEnum.cs",
-              "RelativeToolTip": "ScrapingApplication\\Enums\\MusclesEnum.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Title": "ScrapingService.cs",
+              "DocumentMoniker": "C:\\Users\\saeid.abasi\\source\\repos\\Scraping\\ScrapingApplication\\Services\\ScrapingService.cs",
+              "RelativeDocumentMoniker": "ScrapingApplication\\Services\\ScrapingService.cs",
+              "ToolTip": "C:\\Users\\saeid.abasi\\source\\repos\\Scraping\\ScrapingApplication\\Services\\ScrapingService.cs",
+              "RelativeToolTip": "ScrapingApplication\\Services\\ScrapingService.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAowHMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T11:47:30.658Z",
+              "WhenOpened": "2025-05-10T13:12:26.76Z",
               "EditorCaption": ""
             }
           ]
