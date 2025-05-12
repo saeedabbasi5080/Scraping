@@ -1,52 +1,41 @@
-﻿// Controllers/ScrapeController.cs
-using HtmlAgilityPack;
+﻿using HtmlAgilityPack;
 using Microsoft.AspNetCore.Mvc;
-using ScrapingApplication;
-using System.Collections.Generic;
+using System.Net.Http;
 using System.Threading.Tasks;
 
 [ApiController]
 [Route("api/[controller]")]
 public class ScrapeController : ControllerBase
 {
-    private readonly ScrapingService _scrapingService;
-
-    public ScrapeController(ScrapingService scrapingService)
+    [HttpGet("title")]
+    public async Task<IActionResult> GetPageTitle([FromQuery] string url)
     {
-        _scrapingService = scrapingService;
-    }
+        if (string.IsNullOrWhiteSpace(url))
+            return BadRequest("لطفاً آدرس سایت را وارد کنید.");
 
-    [HttpGet("preview")]
-    public async Task<ActionResult<IEnumerable<ArticleDto>>> PreviewScrapedData()
-    {
         try
         {
-            var htmlContent = await _scrapingService.GetWebsiteContentAsync();
-            var scrapedArticles = await _scrapingService.ScrapeArticlesForPreviewAsync(htmlContent);
+            using var httpClient = new HttpClient();
+            var html = await httpClient.GetStringAsync(url);
 
-            if (scrapedArticles != null && scrapedArticles.Any())
-            {
-                return Ok(scrapedArticles);
-            }
-            else
-            {
-                return NotFound("هیچ مقاله ای برای پیش نمایش پیدا نشد.");
-            }
+            var doc = new HtmlDocument();
+            doc.LoadHtml(html);
+
+            var titleNode = doc.DocumentNode.SelectSingleNode("//noscript");
+
+            if (titleNode == null)
+                return NotFound("تگ <title> در صفحه پیدا نشد.");
+
+            var title = titleNode.InnerText.Trim();
+            return Ok(new { Title = title });
         }
         catch (HttpRequestException ex)
         {
-            return StatusCode(500, $"خطا در درخواست وب‌سایت: {ex.Message}");
+            return StatusCode(500, $"خطا در ارتباط با سایت: {ex.Message}");
         }
-        catch (Exception ex)
+        catch (System.Exception ex)
         {
-            return StatusCode(500, $"خطا در هنگام اسکرپ کردن: {ex.Message}");
+            return StatusCode(500, $"خطای غیرمنتظره: {ex.Message}");
         }
-    }
-
-    [HttpPost("save")]
-    public async Task<IActionResult> SaveScrapedDataToDatabase()
-    {
-        await _scrapingService.ScrapeAndSaveArticlesAsync(); // نیاز به ایجاد این متد در ScrapingService
-        return Ok("داده ها با موفقیت ذخیره شدند.");
     }
 }

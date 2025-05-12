@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ScrapingApplication")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+56a0b2772bdc32ec1bea5182919b21ab7578d0e6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8074a44ab0c39b35826f368d8b74b076f2cdb624")]
 [assembly: System.Reflection.AssemblyProductAttribute("ScrapingApplication")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ScrapingApplication")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,52 +1,170 @@
 {
   "openapi": "3.0.1",
   "info": {
-    "title": "ScrapingApplication",
-    "version": "1.0"
+    "title": "My API",
+    "version": "v1"
   },
   "paths": {
-    "/api/Scrape/preview": {
+    "/api/Scrape/title": {
       "get": {
         "tags": [
           "Scrape"
         ],
+        "parameters": [
+          {
+            "name": "url",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
         "responses": {
           "200": {
-            "description": "OK",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "type": "array",
-                  "items": {
-                    "$ref": "#/components/schemas/ArticleDto"
-                  }
-                }
-              },
-              "application/json": {
-                "schema": {
-                  "type": "array",
-                  "items": {
-                    "$ref": "#/components/schemas/ArticleDto"
-                  }
-                }
-              },
-              "text/json": {
-                "schema": {
-                  "type": "array",
-                  "items": {
-                    "$ref": "#/components/schemas/ArticleDto"
-                  }
-                }
-              }
-            }
+            "description": "OK"
           }
         }
       }
     },
-    "/api/Scrape/save": {
-      "post": {
+    "/api/ScrapeController2/links": {
+      "get": {
         "tags": [
-          "Scrape"
+          "ScrapeController2"
+        ],
+        "parameters": [
+          {
+            "name": "url",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/ScrapeController3/nav-links": {
+      "get": {
+        "tags": [
+          "ScrapeController3"
+        ],
+        "parameters": [
+          {
+            "name": "url",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/ScrapeController4/exercise-names": {
+      "get": {
+        "tags": [
+          "ScrapeController4"
+        ],
+        "parameters": [
+          {
+            "name": "url",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/ScrapeController4/secure-extract": {
+      "get": {
+        "tags": [
+          "ScrapeController4"
+        ],
+        "parameters": [
+          {
+            "name": "url",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/ScrapeController5/secure-extract": {
+      "get": {
+        "tags": [
+          "ScrapeController5"
+        ],
+        "parameters": [
+          {
+            "name": "url",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/ScrapeController7/exercise-names": {
+      "get": {
+        "tags": [
+          "ScrapeController7"
+        ],
+        "parameters": [
+          {
+            "name": "url",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/ScrapeController8/exercise-names": {
+      "get": {
+        "tags": [
+          "ScrapeController8"
+        ],
+        "parameters": [
+          {
+            "name": "url",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
         ],
         "responses": {
           "200": {
@@ -97,20 +215,6 @@
   },
   "components": {
     "schemas": {
-      "ArticleDto": {
-        "type": "object",
-        "properties": {
-          "title": {
-            "type": "string",
-            "nullable": true
-          },
-          "url": {
-            "type": "string",
-            "nullable": true
-          }
-        },
-        "additionalProperties": false
-      },
       "WeatherForecast": {
         "type": "object",
         "properties": {
@@ -134,6 +238,19 @@
         },
         "additionalProperties": false
       }
+    },
+    "securitySchemes": {
+      "Bearer": {
+        "type": "apiKey",
+        "description": "توکن JWT خود را وارد کنید. فقط مقدار بدون Bearer بنویس.",
+        "name": "Authorization",
+        "in": "header"
+      }
     }
-  }
+  },
+  "security": [
+    {
+      "Bearer": [ ]
+    }
+  ]
 }

@@ -1,7 +1,64 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Saeed\\Desktop\\Scraping\\Scraping\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF488C4-3C51-47B4-A821-51D551E12CFD}|ScrapingApplication\\ScrapingApplication.csproj|c:\\users\\saeed\\desktop\\scraping\\scraping\\scrapingapplication\\controllers\\scrapecontroller8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF488C4-3C51-47B4-A821-51D551E12CFD}|ScrapingApplication\\ScrapingApplication.csproj|solutionrelative:scrapingapplication\\controllers\\scrapecontroller8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF488C4-3C51-47B4-A821-51D551E12CFD}|ScrapingApplication\\ScrapingApplication.csproj|c:\\users\\saeed\\desktop\\scraping\\scraping\\scrapingapplication\\controllers\\scrapecontroller3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF488C4-3C51-47B4-A821-51D551E12CFD}|ScrapingApplication\\ScrapingApplication.csproj|solutionrelative:scrapingapplication\\controllers\\scrapecontroller3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF488C4-3C51-47B4-A821-51D551E12CFD}|ScrapingApplication\\ScrapingApplication.csproj|c:\\users\\saeed\\desktop\\scraping\\scraping\\scrapingapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF488C4-3C51-47B4-A821-51D551E12CFD}|ScrapingApplication\\ScrapingApplication.csproj|solutionrelative:scrapingapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF488C4-3C51-47B4-A821-51D551E12CFD}|ScrapingApplication\\ScrapingApplication.csproj|c:\\users\\saeed\\desktop\\scraping\\scraping\\scrapingapplication\\controllers\\scraping2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF488C4-3C51-47B4-A821-51D551E12CFD}|ScrapingApplication\\ScrapingApplication.csproj|solutionrelative:scrapingapplication\\controllers\\scraping2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF488C4-3C51-47B4-A821-51D551E12CFD}|ScrapingApplication\\ScrapingApplication.csproj|c:\\users\\saeed\\desktop\\scraping\\scraping\\scrapingapplication\\controllers\\scrapecontrollerfinal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF488C4-3C51-47B4-A821-51D551E12CFD}|ScrapingApplication\\ScrapingApplication.csproj|solutionrelative:scrapingapplication\\controllers\\scrapecontrollerfinal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF488C4-3C51-47B4-A821-51D551E12CFD}|ScrapingApplication\\ScrapingApplication.csproj|c:\\users\\saeed\\desktop\\scraping\\scraping\\scrapingapplication\\services\\scrapingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF488C4-3C51-47B4-A821-51D551E12CFD}|ScrapingApplication\\ScrapingApplication.csproj|solutionrelative:scrapingapplication\\services\\scrapingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF488C4-3C51-47B4-A821-51D551E12CFD}|ScrapingApplication\\ScrapingApplication.csproj|c:\\users\\saeed\\desktop\\scraping\\scraping\\scrapingapplication\\controllers\\scraping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF488C4-3C51-47B4-A821-51D551E12CFD}|ScrapingApplication\\ScrapingApplication.csproj|solutionrelative:scrapingapplication\\controllers\\scraping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF488C4-3C51-47B4-A821-51D551E12CFD}|ScrapingApplication\\ScrapingApplication.csproj|c:\\users\\saeed\\desktop\\scraping\\scraping\\scrapingapplication\\controllers\\scrapecontroller2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF488C4-3C51-47B4-A821-51D551E12CFD}|ScrapingApplication\\ScrapingApplication.csproj|solutionrelative:scrapingapplication\\controllers\\scrapecontroller2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF488C4-3C51-47B4-A821-51D551E12CFD}|ScrapingApplication\\ScrapingApplication.csproj|c:\\users\\saeed\\desktop\\scraping\\scraping\\scrapingapplication\\controllers\\scrapecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF488C4-3C51-47B4-A821-51D551E12CFD}|ScrapingApplication\\ScrapingApplication.csproj|solutionrelative:scrapingapplication\\controllers\\scrapecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF488C4-3C51-47B4-A821-51D551E12CFD}|ScrapingApplication\\ScrapingApplication.csproj|c:\\users\\saeed\\desktop\\scraping\\scraping\\scrapingapplication\\dto\\articledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF488C4-3C51-47B4-A821-51D551E12CFD}|ScrapingApplication\\ScrapingApplication.csproj|solutionrelative:scrapingapplication\\dto\\articledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF488C4-3C51-47B4-A821-51D551E12CFD}|ScrapingApplication\\ScrapingApplication.csproj|c:\\users\\saeed\\desktop\\scraping\\scraping\\scrapingapplication\\entities\\exercises.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF488C4-3C51-47B4-A821-51D551E12CFD}|ScrapingApplication\\ScrapingApplication.csproj|solutionrelative:scrapingapplication\\entities\\exercises.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF488C4-3C51-47B4-A821-51D551E12CFD}|ScrapingApplication\\ScrapingApplication.csproj|c:\\users\\saeed\\desktop\\scraping\\scraping\\scrapingapplication\\enums\\exercisetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF488C4-3C51-47B4-A821-51D551E12CFD}|ScrapingApplication\\ScrapingApplication.csproj|solutionrelative:scrapingapplication\\enums\\exercisetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF488C4-3C51-47B4-A821-51D551E12CFD}|ScrapingApplication\\ScrapingApplication.csproj|c:\\users\\saeed\\desktop\\scraping\\scraping\\scrapingapplication\\enums\\musclesenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF488C4-3C51-47B4-A821-51D551E12CFD}|ScrapingApplication\\ScrapingApplication.csproj|solutionrelative:scrapingapplication\\enums\\musclesenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF488C4-3C51-47B4-A821-51D551E12CFD}|ScrapingApplication\\ScrapingApplication.csproj|c:\\users\\saeed\\desktop\\scraping\\scraping\\scrapingapplication\\entities\\attachment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF488C4-3C51-47B4-A821-51D551E12CFD}|ScrapingApplication\\ScrapingApplication.csproj|solutionrelative:scrapingapplication\\entities\\attachment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Bookmark",
@@ -68,8 +125,186 @@
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ScrapeController8.cs",
+              "DocumentMoniker": "C:\\Users\\Saeed\\Desktop\\Scraping\\Scraping\\ScrapingApplication\\Controllers\\ScrapeController8.cs",
+              "RelativeDocumentMoniker": "ScrapingApplication\\Controllers\\ScrapeController8.cs",
+              "ToolTip": "C:\\Users\\Saeed\\Desktop\\Scraping\\Scraping\\ScrapingApplication\\Controllers\\ScrapeController8.cs*",
+              "RelativeToolTip": "ScrapingApplication\\Controllers\\ScrapeController8.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T23:06:33.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ScrapeController3.cs",
+              "DocumentMoniker": "C:\\Users\\Saeed\\Desktop\\Scraping\\Scraping\\ScrapingApplication\\Controllers\\ScrapeController3.cs",
+              "RelativeDocumentMoniker": "ScrapingApplication\\Controllers\\ScrapeController3.cs",
+              "ToolTip": "C:\\Users\\Saeed\\Desktop\\Scraping\\Scraping\\ScrapingApplication\\Controllers\\ScrapeController3.cs",
+              "RelativeToolTip": "ScrapingApplication\\Controllers\\ScrapeController3.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA2wDMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T22:21:29.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Saeed\\Desktop\\Scraping\\Scraping\\ScrapingApplication\\Program.cs",
+              "RelativeDocumentMoniker": "ScrapingApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\Saeed\\Desktop\\Scraping\\Scraping\\ScrapingApplication\\Program.cs",
+              "RelativeToolTip": "ScrapingApplication\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T21:51:51.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ScrapeControllerFinal.cs",
+              "DocumentMoniker": "C:\\Users\\Saeed\\Desktop\\Scraping\\Scraping\\ScrapingApplication\\Controllers\\ScrapeControllerFinal.cs",
+              "RelativeDocumentMoniker": "ScrapingApplication\\Controllers\\ScrapeControllerFinal.cs",
+              "ToolTip": "C:\\Users\\Saeed\\Desktop\\Scraping\\Scraping\\ScrapingApplication\\Controllers\\ScrapeControllerFinal.cs",
+              "RelativeToolTip": "ScrapingApplication\\Controllers\\ScrapeControllerFinal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T21:48:01.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "scraping2.cs",
+              "DocumentMoniker": "C:\\Users\\Saeed\\Desktop\\Scraping\\Scraping\\ScrapingApplication\\Controllers\\scraping2.cs",
+              "RelativeDocumentMoniker": "ScrapingApplication\\Controllers\\scraping2.cs",
+              "ToolTip": "C:\\Users\\Saeed\\Desktop\\Scraping\\Scraping\\ScrapingApplication\\Controllers\\scraping2.cs",
+              "RelativeToolTip": "ScrapingApplication\\Controllers\\scraping2.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAswFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T21:39:50.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Scraping.cs",
+              "DocumentMoniker": "C:\\Users\\Saeed\\Desktop\\Scraping\\Scraping\\ScrapingApplication\\Controllers\\Scraping.cs",
+              "RelativeDocumentMoniker": "ScrapingApplication\\Controllers\\Scraping.cs",
+              "ToolTip": "C:\\Users\\Saeed\\Desktop\\Scraping\\Scraping\\ScrapingApplication\\Controllers\\Scraping.cs",
+              "RelativeToolTip": "ScrapingApplication\\Controllers\\Scraping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T21:34:23.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ScrapeController2.cs",
+              "DocumentMoniker": "C:\\Users\\Saeed\\Desktop\\Scraping\\Scraping\\ScrapingApplication\\Controllers\\ScrapeController2.cs",
+              "RelativeDocumentMoniker": "ScrapingApplication\\Controllers\\ScrapeController2.cs",
+              "ToolTip": "C:\\Users\\Saeed\\Desktop\\Scraping\\Scraping\\ScrapingApplication\\Controllers\\ScrapeController2.cs",
+              "RelativeToolTip": "ScrapingApplication\\Controllers\\ScrapeController2.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwB8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T21:22:24.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ScrapeController.cs",
+              "DocumentMoniker": "C:\\Users\\Saeed\\Desktop\\Scraping\\Scraping\\ScrapingApplication\\Controllers\\ScrapeController.cs",
+              "RelativeDocumentMoniker": "ScrapingApplication\\Controllers\\ScrapeController.cs",
+              "ToolTip": "C:\\Users\\Saeed\\Desktop\\Scraping\\Scraping\\ScrapingApplication\\Controllers\\ScrapeController.cs",
+              "RelativeToolTip": "ScrapingApplication\\Controllers\\ScrapeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T20:43:58.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ScrapingService.cs",
+              "DocumentMoniker": "C:\\Users\\Saeed\\Desktop\\Scraping\\Scraping\\ScrapingApplication\\Services\\ScrapingService.cs",
+              "RelativeDocumentMoniker": "ScrapingApplication\\Services\\ScrapingService.cs",
+              "ToolTip": "C:\\Users\\Saeed\\Desktop\\Scraping\\Scraping\\ScrapingApplication\\Services\\ScrapingService.cs",
+              "RelativeToolTip": "ScrapingApplication\\Services\\ScrapingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T20:42:47.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ArticleDto.cs",
+              "DocumentMoniker": "C:\\Users\\Saeed\\Desktop\\Scraping\\Scraping\\ScrapingApplication\\Dto\\ArticleDto.cs",
+              "RelativeDocumentMoniker": "ScrapingApplication\\Dto\\ArticleDto.cs",
+              "ToolTip": "C:\\Users\\Saeed\\Desktop\\Scraping\\Scraping\\ScrapingApplication\\Dto\\ArticleDto.cs",
+              "RelativeToolTip": "ScrapingApplication\\Dto\\ArticleDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T20:41:20.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ExerciseType.cs",
+              "DocumentMoniker": "C:\\Users\\Saeed\\Desktop\\Scraping\\Scraping\\ScrapingApplication\\Enums\\ExerciseType.cs",
+              "RelativeDocumentMoniker": "ScrapingApplication\\Enums\\ExerciseType.cs",
+              "ToolTip": "C:\\Users\\Saeed\\Desktop\\Scraping\\Scraping\\ScrapingApplication\\Enums\\ExerciseType.cs",
+              "RelativeToolTip": "ScrapingApplication\\Enums\\ExerciseType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T20:27:41.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MusclesEnum.cs",
+              "DocumentMoniker": "C:\\Users\\Saeed\\Desktop\\Scraping\\Scraping\\ScrapingApplication\\Enums\\MusclesEnum.cs",
+              "RelativeDocumentMoniker": "ScrapingApplication\\Enums\\MusclesEnum.cs",
+              "ToolTip": "C:\\Users\\Saeed\\Desktop\\Scraping\\Scraping\\ScrapingApplication\\Enums\\MusclesEnum.cs",
+              "RelativeToolTip": "ScrapingApplication\\Enums\\MusclesEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T20:21:35.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Exercises.cs",
+              "DocumentMoniker": "C:\\Users\\Saeed\\Desktop\\Scraping\\Scraping\\ScrapingApplication\\Entities\\Exercises.cs",
+              "RelativeDocumentMoniker": "ScrapingApplication\\Entities\\Exercises.cs",
+              "ToolTip": "C:\\Users\\Saeed\\Desktop\\Scraping\\Scraping\\ScrapingApplication\\Entities\\Exercises.cs",
+              "RelativeToolTip": "ScrapingApplication\\Entities\\Exercises.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T20:21:07.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Attachment.cs",
+              "DocumentMoniker": "C:\\Users\\Saeed\\Desktop\\Scraping\\Scraping\\ScrapingApplication\\Entities\\Attachment.cs",
+              "RelativeDocumentMoniker": "ScrapingApplication\\Entities\\Attachment.cs",
+              "ToolTip": "C:\\Users\\Saeed\\Desktop\\Scraping\\Scraping\\ScrapingApplication\\Entities\\Attachment.cs",
+              "RelativeToolTip": "ScrapingApplication\\Entities\\Attachment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T20:16:02.257Z",
+              "EditorCaption": ""
             }
           ]
         }

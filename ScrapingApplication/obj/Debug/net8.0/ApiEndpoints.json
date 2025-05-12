@@ -1,32 +1,140 @@
 [
   {
     "ContainingType": "ScrapeController",
-    "Method": "PreviewScrapedData",
-    "RelativePath": "api/Scrape/preview",
+    "Method": "GetPageTitle",
+    "RelativePath": "api/Scrape/title",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
-    "Parameters": [],
-    "ReturnTypes": [
+    "Parameters": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[ArticleDto, ScrapingApplication, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
+        "Name": "url",
+        "Type": "System.String",
+        "IsRequired": false
       }
-    ]
+    ],
+    "ReturnTypes": []
   },
   {
-    "ContainingType": "ScrapeController",
-    "Method": "SaveScrapedDataToDatabase",
-    "RelativePath": "api/Scrape/save",
-    "HttpMethod": "POST",
+    "ContainingType": "ScrapeController2",
+    "Method": "GetAllLinks",
+    "RelativePath": "api/ScrapeController2/links",
+    "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
-    "Parameters": [],
+    "Parameters": [
+      {
+        "Name": "url",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ScrapeController3",
+    "Method": "GetSpanNavLinkText",
+    "RelativePath": "api/ScrapeController3/nav-links",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "url",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ScrapeController4",
+    "Method": "GetExerciseNames",
+    "RelativePath": "api/ScrapeController4/exercise-names",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "url",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ScrapeController4",
+    "Method": "ExtractProtectedContent",
+    "RelativePath": "api/ScrapeController4/secure-extract",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "url",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Authorization",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ScrapeController5",
+    "Method": "ExtractProtectedContent",
+    "RelativePath": "api/ScrapeController5/secure-extract",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "url",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Authorization",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ScrapeController7",
+    "Method": "GetExerciseNames",
+    "RelativePath": "api/ScrapeController7/exercise-names",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "url",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ScrapeController8",
+    "Method": "GetExerciseNames",
+    "RelativePath": "api/ScrapeController8/exercise-names",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "url",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
     "ReturnTypes": []
   },
   {

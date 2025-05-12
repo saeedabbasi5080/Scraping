@@ -1023,6 +1023,28 @@
           "buildTransitive/Mono.TextTemplating.targets": {}
         }
       },
+      "Selenium.WebDriver/4.32.0": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/WebDriver.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/WebDriver.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "buildTransitive/Selenium.WebDriver.targets": {}
+        }
+      },
+      "Selenium.WebDriver.ChromeDriver/136.0.7103.4900": {
+        "type": "package",
+        "build": {
+          "build/Selenium.WebDriver.ChromeDriver.targets": {}
+        }
+      },
       "Swashbuckle.AspNetCore/6.6.2": {
         "type": "package",
         "dependencies": {
@@ -3910,6 +3932,52 @@
         "readme.md"
       ]
     },
+    "Selenium.WebDriver/4.32.0": {
+      "sha512": "7mocv9JMt3jth7nkfrKISv23dwRR8+1/QE0REyNco+L6A9tSFdR+makPZpGKSE8ppTt8JMyvFPQLgRnPzRL5+w==",
+      "type": "package",
+      "path": "selenium.webdriver/4.32.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "build/Selenium.WebDriver.targets",
+        "buildTransitive/Selenium.WebDriver.targets",
+        "icon.png",
+        "lib/net8.0/WebDriver.dll",
+        "lib/net8.0/WebDriver.xml",
+        "lib/netstandard2.0/WebDriver.dll",
+        "lib/netstandard2.0/WebDriver.xml",
+        "manager/linux/selenium-manager",
+        "manager/macos/selenium-manager",
+        "manager/windows/selenium-manager.exe",
+        "selenium.webdriver.4.32.0.nupkg.sha512",
+        "selenium.webdriver.nuspec"
+      ]
+    },
+    "Selenium.WebDriver.ChromeDriver/136.0.7103.4900": {
+      "sha512": "lpxEus4IlB0OWZRiH+lX5DUK4Ro7BHkpcN4C7WG9m13FWdLmx8MKPa20dot6cQI2AzxnLfXD0DBIu8x1TFVAGg==",
+      "type": "package",
+      "path": "selenium.webdriver.chromedriver/136.0.7103.4900",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "README.md",
+        "build/DefinePropertiesChromeDriver.targets",
+        "build/Selenium.WebDriver.ChromeDriver.targets",
+        "driver/linux64/LICENSE.chromedriver",
+        "driver/linux64/chromedriver",
+        "driver/mac64/LICENSE.chromedriver",
+        "driver/mac64/chromedriver",
+        "driver/mac64arm/LICENSE.chromedriver",
+        "driver/mac64arm/chromedriver",
+        "driver/win32/LICENSE.chromedriver",
+        "driver/win32/chromedriver.exe",
+        "nupkg-icon.png",
+        "selenium.webdriver.chromedriver.136.0.7103.4900.nupkg.sha512",
+        "selenium.webdriver.chromedriver.nuspec"
+      ]
+    },
     "Swashbuckle.AspNetCore/6.6.2": {
       "sha512": "+NB4UYVYN6AhDSjW0IJAd1AGD8V33gemFNLPaxKTtPkHB+HaKAKf9MGAEUPivEWvqeQfcKIw8lJaHq6LHljRuw==",
       "type": "package",
@@ -5210,29 +5278,32 @@
   "projectFileDependencyGroups": {
     "net8.0": [
       "HtmlAgilityPack >= 1.12.1",
+      "Microsoft.EntityFrameworkCore >= 9.0.4",
       "Microsoft.EntityFrameworkCore.SqlServer >= 9.0.4",
       "Microsoft.EntityFrameworkCore.Tools >= 9.0.4",
+      "Selenium.WebDriver >= 4.32.0",
+      "Selenium.WebDriver.ChromeDriver >= 136.0.7103.4900",
       "Swashbuckle.AspNetCore >= 6.6.2"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\saeid.abasi\\.nuget\\packages\\": {},
+    "C:\\Users\\Saeed\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\saeid.abasi\\Source\\Repos\\Scraping\\ScrapingApplication\\ScrapingApplication.csproj",
+      "projectUniqueName": "C:\\Users\\Saeed\\Desktop\\Scraping\\Scraping\\ScrapingApplication\\ScrapingApplication.csproj",
       "projectName": "ScrapingApplication",
-      "projectPath": "C:\\Users\\saeid.abasi\\Source\\Repos\\Scraping\\ScrapingApplication\\ScrapingApplication.csproj",
-      "packagesPath": "C:\\Users\\saeid.abasi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\saeid.abasi\\Source\\Repos\\Scraping\\ScrapingApplication\\obj\\",
+      "projectPath": "C:\\Users\\Saeed\\Desktop\\Scraping\\Scraping\\ScrapingApplication\\ScrapingApplication.csproj",
+      "packagesPath": "C:\\Users\\Saeed\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Saeed\\Desktop\\Scraping\\Scraping\\ScrapingApplication\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\saeid.abasi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Saeed\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -5259,7 +5330,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.200"
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net8.0": {
@@ -5268,6 +5339,10 @@
           "HtmlAgilityPack": {
             "target": "Package",
             "version": "[1.12.1, )"
+          },
+          "Microsoft.EntityFrameworkCore": {
+            "target": "Package",
+            "version": "[9.0.4, )"
           },
           "Microsoft.EntityFrameworkCore.SqlServer": {
             "target": "Package",
@@ -5278,6 +5353,14 @@
             "suppressParent": "All",
             "target": "Package",
             "version": "[9.0.4, )"
+          },
+          "Selenium.WebDriver": {
+            "target": "Package",
+            "version": "[4.32.0, )"
+          },
+          "Selenium.WebDriver.ChromeDriver": {
+            "target": "Package",
+            "version": "[136.0.7103.4900, )"
           },
           "Swashbuckle.AspNetCore": {
             "target": "Package",
@@ -5303,7 +5386,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
